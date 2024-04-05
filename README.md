@@ -8,6 +8,7 @@ Chimely isn't really about "keeping track of time"... it's more about "__not los
 <p align="center">
   <img src="assets/chimely-demo-screenshot.png" width="600"/>
 </p>
+
 ### The idea
 The idea for Chimely stems from a "productivity hack" the author already uses. Basically, you set a timer, time passes, timer alerts, you silence/restart timer. It's a simple idea, 
 but quite powerful.  
